@@ -95,8 +95,8 @@ Different sensors trigger different communication commands:
 
 - Left Sensor → Water Needed
 - Right Sensor → Hungry
-- Down Sensor → No
-- Up Sensor → Yes
+- Down Sensor → Yes
+- Up Sensor → No
 - All Sensor(3s hold) → Emergency
 
 ---
