@@ -6,7 +6,13 @@ image: cover.jpg
 tags:
  - healthcare
  - esp32
- - assistive-tech
+ - assistive-t
+
+https://github.com/user-attachments/assets/ad17fc59-ff88-4b4f-a102-483827aa64b3
+
+
+
+ech
  - iot
  - embedded-systems
 ---
@@ -69,13 +75,12 @@ The project also includes emergency communication using the SIM800L GSM module, 
 
 ### Videos
 
-<video controls width="100%">
- <source src="/demo-video" type="video/mp4">
-</video>
+### Demo Video
+https://github.com/user-attachments/assets/86ccb324-81bb-41ea-bb19-e9dace63eacb
 
-<video controls width="100%">
- <source src="/presentation-video.mp4" type="video/mp4">
-</video>
+### Presentation Video
+
+https://github.com/user-attachments/assets/10225a65-5fa4-4b0e-8132-d84659dc867d
 
 
 ---
