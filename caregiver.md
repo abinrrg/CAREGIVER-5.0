@@ -70,11 +70,17 @@ The project also includes emergency communication using the SIM800L GSM module, 
 ### Videos
 
 ### Demo Video
-https://github.com/user-attachments/assets/86ccb324-81bb-41ea-bb19-e9dace63eacb
+
+https://github.com/user-attachments/assets/83e56ded-aa1d-4ee0-9c98-19dbd2375b90
+
 
 ### Presentation Video
 
-https://github.com/user-attachments/assets/10225a65-5fa4-4b0e-8132-d84659dc867d
+
+
+https://github.com/user-attachments/assets/b4ee92e7-3c78-49f9-bc64-ca9c9a487c87
+
+
 
 
 ---
