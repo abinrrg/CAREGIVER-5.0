@@ -3,8 +3,6 @@ publishDate: 2026-05-24
 title: Caregiver 5.0 - Ir Based Assistive Communication System
 excerpt: An ESP32-based assistive healthcare communication system using hand detection, voice alerts, and emergency GSM communication.
 image: cover.jpg
-<img width="1536" height="1024" alt="cover" src="https://github.com/user-attachments/assets/310c74ad-ac33-4787-85bd-3070e5093e8f" />
-
 tags:
  - healthcare
  - esp32
@@ -16,6 +14,11 @@ tags:
 > Smart hand detection-based communication system designed for patients and caregivers.
 
 ---
+
+<p align="center">
+ <img width="1536" height="1024" alt="cover" src="https://github.com/user-attachments/assets/3a2eeaf8-77dc-4ee5-bd63-559a47aad422" />
+  <i>Cover image</i>
+</p>   
 
 # ## Acknowledgements
 
