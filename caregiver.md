@@ -47,7 +47,6 @@ The project also includes emergency communication using the SIM800L GSM module, 
 
 <p align="center">
  <img src="/cover.jpg" width="800"><br/>
- <i>Gesture detection demonstration</i>
 </p>
 
 <p align="center">
