@@ -6,13 +6,7 @@ image: cover.jpg
 tags:
  - healthcare
  - esp32
- - assistive-t
-
-https://github.com/user-attachments/assets/ad17fc59-ff88-4b4f-a102-483827aa64b3
-
-
-
-ech
+ - assistive-tech
  - iot
  - embedded-systems
 ---
